@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="devclockLogin"
+    errors="0" failures="1" hostname="" id="" package="devclockLogin" skipped="0"
+    tests="1" time="16.60" timestamp="">
+  
+    <testcase name="Email Input Test" classname="devclockLogin" time="16.60" assertions="2">
+
+      <failure message="Expected element &lt;//div[contains(@data-bind, &#34;logout&#34;)]&gt; to be visible - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not visible&#34;[0m">    at Object.Email Input Test (C:\Users\maroh\DevMountain\practiceAutomation\tests\devclockLogin.js:17:10)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Email Input Test (C:\Users\maroh\DevMountain\practiceAutomation\tests\devclockLogin.js:17:10)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  SyntaxError: Unexpected end of input[0m
+[0;90m               .click(&#39;.neutralButton&#39;)
+                                      ^
+   
+   SyntaxError: Unexpected end of input
+       at Module._compile (internal/modules/cjs/loader.js:721:23)
+       at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+       at Module.require (internal/modules/cjs/loader.js:690:17)
+       at require (internal/modules/cjs/helpers.js:25:18)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="11">
+
+  <testsuite name="yoodlizeTest"
+    errors="1" failures="1" hostname="" id="" package="yoodlizeTest" skipped="6"
+    tests="11" time="84.50" timestamp="">
+  
+    <testcase name="Select see all" classname="yoodlizeTest" time="8.514" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Select see all Outdoor Gear" classname="yoodlizeTest" time="6.634" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Electronics See All" classname="yoodlizeTest" time="6.798" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Wedding See All" classname="yoodlizeTest" time="7.478" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Tools See All" classname="yoodlizeTest" time="7.045" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Clothing See All" classname="yoodlizeTest" time="7.759" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Kitchen See All" classname="yoodlizeTest" time="7.279" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Toys See All" classname="yoodlizeTest" time="7.130" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Lawn See All" classname="yoodlizeTest" time="7.371" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sporting See All" classname="yoodlizeTest" time="7.414" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="DVDs See All" classname="yoodlizeTest" time="11.07" assertions="2">
+
+      <failure message="Testing if element &lt;Element [name=@results]&gt; contains text: &#34;DVDs &amp; Video Games&#34;. Element could not be located in 1000 ms. - expected [0;32m&#34;DVDs &amp; Video Games&#34;[0m but got: [0;31m&#34;null&#34;[0m">    at Object.DVDs See All (C:\Users\maroh\DevMountain\practiceAutomation\tests\yoodlizeTest.js:71:13)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Venues See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Local Experts See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Guided See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Music See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Business See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Misc See All" classname="yoodlizeTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
